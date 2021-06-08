@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+  
+<suite name="Suite1" verbose="1" >
+  <test name="Selenium Challenge" preserve-order="true" >
+	  <classes>
+		  <class name="org.AppTest" />
+	  </classes>
+	<!-- <packages>
+		<package name= "org.eric.*"/>
+	</packages> -->
+  </test>
+ 
+
+</suite>
